@@ -65,3 +65,18 @@ img{
     border-radius: 1rem;
     
 }
+
+
+@media(max-width:517px){
+    .choice{
+        height: 16vh;
+        width: 21.313vw;
+    }
+    img{
+        height: 14.375vh;
+        width: 19.375vw;
+    }
+    .container{
+        gap: 2rem;
+    }
+}
