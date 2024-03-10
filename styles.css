@@ -13,8 +13,8 @@ h1{
 }
 
 .choice{
-    height: 10.313rem;
-    width: 10.313rem;
+    height: 19.313vh;
+    width: 10.313vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,8 +26,8 @@ h1{
     cursor: pointer;
 }
 img{
-    height: 9.375rem;
-    width: 9.375rem;
+    height: 17.375vh;
+    width: 9.375vh;
     object-fit: cover;
     border-radius: 50%;
 
