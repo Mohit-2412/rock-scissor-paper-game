@@ -9,11 +9,12 @@ h1{
     color: #fff;
     height: 5rem;
     line-height: 5rem;
+    width: 100vw;
 }
 
 .choice{
-    height: 165px;
-    width: 165px;
+    height: 10.313rem;
+    width: 10.313rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,8 +26,8 @@ h1{
     cursor: pointer;
 }
 img{
-    height: 150px;
-    width: 150px;
+    height: 9.375rem;
+    width: 9.375rem;
     object-fit: cover;
     border-radius: 50%;
 
