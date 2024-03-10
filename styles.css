@@ -84,7 +84,7 @@ img{
     }
 
 }
-@media(max-width:396px){
+@media(max-width:398px){
     #message{
         font-size: 1.25rem;
     }
@@ -100,7 +100,7 @@ img{
         gap: 2rem;
     }
 }
-@media(max-width:335px){
+@media(max-width:337px){
     #message{
         font-size: 1rem;
     }
@@ -116,7 +116,7 @@ img{
         gap: 2rem;
     }
 }
-@media(max-width:274px){
+@media(max-width:276px){
     #message{
         font-size: 0.75rem;
     }
