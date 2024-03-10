@@ -27,7 +27,7 @@ h1{
 }
 img{
     height: 17.375vh;
-    width: 9.375vh;
+    width: 9.375vw;
     object-fit: cover;
     border-radius: 50%;
 
