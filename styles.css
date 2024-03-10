@@ -67,7 +67,59 @@ img{
 }
 
 
-@media(max-width:517px){
+@media(min-width:397px)and(max-width:517px){
+    #message{
+    font-size: 1.5rem;
+    }
+    .choice{
+        height: 16vh;
+        width: 21.313vw;
+    }
+    img{
+        height: 14.375vh;
+        width: 19.375vw;
+    }
+    .container{
+        gap: 2rem;
+    }
+
+}
+@media(min-width:336px)and(max-width:396px){
+    #message{
+        font-size: 1.25rem;
+    }
+    .choice{
+        height: 16vh;
+        width: 21.313vw;
+    }
+    img{
+        height: 14.375vh;
+        width: 19.375vw;
+    }
+    .container{
+        gap: 2rem;
+    }
+}
+@media(min-width:275px)and(max-width:335px){
+    #message{
+        font-size: 1rem;
+    }
+    .choice{
+        height: 16vh;
+        width: 21.313vw;
+    }
+    img{
+        height: 14.375vh;
+        width: 19.375vw;
+    }
+    .container{
+        gap: 2rem;
+    }
+}
+@media(max-width:274px){
+    #message{
+        font-size: 0.75rem;
+    }
     .choice{
         height: 16vh;
         width: 21.313vw;
